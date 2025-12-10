@@ -1,0 +1,7 @@
+Added Net: Name=ADC
+Added Net: Name=GIPO
+Added Net: Name=GPIO
+Added Net: Name=I2C
+Added Net: Name=Net*_100
+Added Room: Name=BLOCKDIAGRAM
+Added Room: Name=sche_shield_esp32_5prj
